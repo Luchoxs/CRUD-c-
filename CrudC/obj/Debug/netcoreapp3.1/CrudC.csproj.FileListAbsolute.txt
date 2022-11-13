@@ -1,0 +1,28 @@
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\bin\Debug\netcoreapp3.1\CrudC.exe
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\bin\Debug\netcoreapp3.1\CrudC.deps.json
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\bin\Debug\netcoreapp3.1\CrudC.runtimeconfig.json
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\bin\Debug\netcoreapp3.1\CrudC.runtimeconfig.dev.json
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\bin\Debug\netcoreapp3.1\CrudC.dll
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\bin\Debug\netcoreapp3.1\CrudC.pdb
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.csproj.AssemblyReference.cache
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.AssemblyInfoInputs.cache
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.AssemblyInfo.cs
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.csproj.CoreCompileInputs.cache
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.dll
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.pdb
+C:\Users\ANDRES MONTIEL\source\repos\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.genruntimeconfig.cache
+E:\proyectos_visual_2019\CrudC\CrudC\bin\Debug\netcoreapp3.1\CrudC.exe
+E:\proyectos_visual_2019\CrudC\CrudC\bin\Debug\netcoreapp3.1\CrudC.deps.json
+E:\proyectos_visual_2019\CrudC\CrudC\bin\Debug\netcoreapp3.1\CrudC.runtimeconfig.json
+E:\proyectos_visual_2019\CrudC\CrudC\bin\Debug\netcoreapp3.1\CrudC.runtimeconfig.dev.json
+E:\proyectos_visual_2019\CrudC\CrudC\bin\Debug\netcoreapp3.1\CrudC.dll
+E:\proyectos_visual_2019\CrudC\CrudC\bin\Debug\netcoreapp3.1\CrudC.pdb
+E:\proyectos_visual_2019\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.csproj.AssemblyReference.cache
+E:\proyectos_visual_2019\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos_visual_2019\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.AssemblyInfoInputs.cache
+E:\proyectos_visual_2019\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.AssemblyInfo.cs
+E:\proyectos_visual_2019\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.csproj.CoreCompileInputs.cache
+E:\proyectos_visual_2019\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.dll
+E:\proyectos_visual_2019\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.pdb
+E:\proyectos_visual_2019\CrudC\CrudC\obj\Debug\netcoreapp3.1\CrudC.genruntimeconfig.cache
